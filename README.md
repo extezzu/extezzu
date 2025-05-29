@@ -1,14 +1,14 @@
-<h2> Hi, I'm Dmitry! <img src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" width="50"></h2>
+<h1> This git is under construction.. 🏗️</h1>
 
-<img align='right' src="https://orenschools.org/wp-content/uploads/2022/05/Hand-coding.gif" width="230"/>
+### Hi there, Im Dmitry 👨‍💻
 
-<p><em>Student at <a href="http://www.goit.global" style="text-decoration: none;">GoIT</a></em></p>
+- 🎓 Currently a student at [GoIT](http://www.goit.global)
+- 🚀 Build full-stack portfolio projects  
+- 📚 Learn best practices in React & TypeScript
+- 📧 How to reach me: dmitriyz@tuta.io
 
-[![GitHub followers](https://img.shields.io/github/followers/extezzu?label=follow&style=social)](https://github.com/extezzu)
 
-
-
-## 🧠 Currently Learning
+### 🧠 Currently Learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
@@ -19,15 +19,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
-
-
-## 🚀 Goal
-
-- 🎯 Build full-stack portfolio projects  
-- 🧩 Learn best practices in React & TypeScript  
-
-
-## 📬 Contacts
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dmtrvldmrvch)
-[![Email](https://img.shields.io/badge/Email-dmitriyz@tuta.io-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dmitriyz@tuta.io)
