@@ -2,7 +2,7 @@
 
 Python & Full-Stack developer.
 
-I work with Python across the board — automation, bots, data processing, APIs, AI integrations, scraping, and anything else the language can handle. On the frontend side, I build web apps with React, Next.js, and TypeScript.
+I work with Python across the board — automation, bots, data processing, APIs, AI integrations, scraping, and anything else the language can handle. On the full-stack side, I build backend services with Node.js and FastAPI, and frontend apps with React, Next.js, and TypeScript.
 
 ### Tech Stack
 
