@@ -1,6 +1,6 @@
 ### Hi, I'm Dmytro
 
-Software developer. I build backend services, web apps, and Python tools — from REST APIs and dashboards to automation and AI integrations.
+Software developer. I build full-stack web apps and Python tools — from frontend and backend to automation and AI integrations.
 
 ### Tech Stack
 
