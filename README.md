@@ -1,21 +1,24 @@
-### Hi, I'm Dmytro
+<h3 align="center">Hi, I'm Dmytro 👋</h3>
 
-Software developer. I build full-stack web apps and Python tools — from frontend and backend to automation and AI integrations.
+<p align="center">
+  Software developer. I build full-stack web apps and Python tools<br/>
+  — from frontend and backend to automation and AI integrations.
+</p>
+
+---
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,nextjs,nodejs,postgres,redis,docker&perline=9" alt="Tech Stack" />
+  </a>
 </p>
+
+---
 
 ### Contact
 
-dmitriyz@tuta.io
+<p align="center">
+  <a href="mailto:dmitriyz@tuta.io">dmitriyz@tuta.io</a>
+</p>
